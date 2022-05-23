@@ -1,0 +1,20 @@
+package br.com.entities;
+
+public class Departament {
+
+	public Departament(String departament) {
+		// TODO Auto-generated constructor stub
+	}
+
+	String name;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	
+}

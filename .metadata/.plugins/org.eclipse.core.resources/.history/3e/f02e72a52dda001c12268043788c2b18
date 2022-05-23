@@ -1,0 +1,46 @@
+package br.com.exercicio.principal;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import br.com.exercicio.entities.Employee;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		List<Employee> employeers = new ArrayList<>();
+		int opcao = 0;
+		String name = "";
+		int hours = 0;
+		double valuePerHour = 0.0;
+		double additionalCharge = 0.0;
+		
+		System.out.print("Enter the number of employees: ");
+		opcao = sc.nextInt();
+		
+		for(int i = 1; i <= opcao; i++) {
+			System.out.println("Employee #"+i + " data:");
+			System.out.println("Outsourced (y/n)? ");
+			char op = sc.next().charAt(0);
+			
+			if(op == 'y') {
+				System.out.print("Name: \n");
+				name = sc.next();
+				System.out.print("Hours: \n");
+				hours = sc.nextInt();
+				System.out.print("Value per hour: \n");
+				valuePerHour = sc.nextDouble();
+				System.out.print("Additional charge: \n");
+				additionalCharge = sc.nextDouble();
+			}
+			
+		}
+		
+		
+		
+		
+	}
+
+}

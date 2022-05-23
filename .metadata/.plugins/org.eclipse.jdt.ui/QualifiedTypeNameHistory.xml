@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.neliocourse.util.CurrencyConverter"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="br.com.pensionato.entities.Estudantes"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="br.com.foursys.fourcamp.fourstore.model.Product"/>
+    <fullyQualifiedTypeName name="br.com.courseenums.etities.OrderStatus"/>
+    <fullyQualifiedTypeName name="br.com.entities.Worker"/>
+    <fullyQualifiedTypeName name="br.com.enums.WorkerLevel"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="br.com.projetopost.entities.Comment"/>
+    <fullyQualifiedTypeName name="br.com.heranca.entities.Account"/>
+    <fullyQualifiedTypeName name="br.com.heranca.entities.BusinessAccount"/>
+    <fullyQualifiedTypeName name="br.com.exercicio.entities.OutsourcedEmployee"/>
+    <fullyQualifiedTypeName name="br.com.exercicio.entities.Employee"/>
+    <fullyQualifiedTypeName name="br.com.exercicioheranca.entities.enums.Color"/>
+    <fullyQualifiedTypeName name="br.com.exercicioheranca.entities.Shape"/>
+    <fullyQualifiedTypeName name="br.com.exercicioheranca.entities.Rectangle"/>
+    <fullyQualifiedTypeName name="br.com.exercicioheranca.entities.Circle"/>
+</qualifiedTypeNameHistroy>

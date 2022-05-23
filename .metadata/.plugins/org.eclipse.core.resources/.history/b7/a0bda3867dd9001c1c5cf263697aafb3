@@ -1,0 +1,22 @@
+package br.com.main;
+
+import java.util.Scanner;
+
+public class Application {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("\n Enter department's name: \n");
+		String department = sc.next();
+		System.out.println("Enter worker data: ");
+		System.out.print("\n Name: \n");
+		String name = sc.next();
+		System.out.print("\n Level: \n");
+		String Level = sc.next();
+		System.out.print("\n Base Salary: \n");
+		Double baseSalary = sc.Double();
+		
+	}
+
+}

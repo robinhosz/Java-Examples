@@ -1,0 +1,5 @@
+package br.com.heranca.entities;
+
+public class BussinessAccount {
+
+}

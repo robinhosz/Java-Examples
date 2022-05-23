@@ -1,0 +1,10 @@
+package br.com.heranca.entities;
+
+public class SavingsAccount extends Account{
+
+	public Double interestRate;
+	
+	public SavingsAccount() {
+		super();
+	}
+}

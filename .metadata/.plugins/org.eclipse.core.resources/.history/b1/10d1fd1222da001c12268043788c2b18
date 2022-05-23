@@ -1,0 +1,12 @@
+package br.com.heranca.application;
+
+import br.com.heranca.entities.Account;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Account acc = new Account();
+	}
+
+}

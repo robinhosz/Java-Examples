@@ -1,0 +1,9 @@
+package br.com.courseenums.etities;
+
+public enum OrderStatus {
+
+	PENDING_PAYMENT,
+	PROCESSING,
+	SHIPPED,
+	DELIVERED;
+}

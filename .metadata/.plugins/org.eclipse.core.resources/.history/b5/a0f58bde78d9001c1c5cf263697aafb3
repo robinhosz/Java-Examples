@@ -1,0 +1,13 @@
+package br.com.courseenums.main;
+
+import br.com.courseenums.etities.Order;
+import br.com.courseenums.etities.OrderStatus;
+
+public class Program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Order order = new Order(1080, new Date(), OrderStatus.PENDING_PAYMENT);
+	}
+
+}

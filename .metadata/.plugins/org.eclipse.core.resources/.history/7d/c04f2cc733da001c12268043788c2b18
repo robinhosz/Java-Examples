@@ -1,0 +1,6 @@
+package br.com.exercicioheranca.entities;
+
+public class Shape {
+
+	private Color color;
+}

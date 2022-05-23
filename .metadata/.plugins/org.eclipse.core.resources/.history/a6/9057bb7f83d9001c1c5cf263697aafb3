@@ -1,0 +1,12 @@
+package br.com.entities;
+
+public class Departament {
+
+	public Departament(String departament) {
+		// TODO Auto-generated constructor stub
+	}
+
+	String name;
+	
+	
+}

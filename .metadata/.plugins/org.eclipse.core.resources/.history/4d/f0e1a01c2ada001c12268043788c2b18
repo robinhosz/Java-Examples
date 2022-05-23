@@ -1,0 +1,12 @@
+package br.com.exercicio.entities;
+
+public class Employee {
+
+	private String name;
+	private Integer hours;
+	private Double valuePerHour;
+	
+	public Employee() {
+		
+	}
+}
