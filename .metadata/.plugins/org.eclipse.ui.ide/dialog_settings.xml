@@ -11,6 +11,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\jrobson\Desktop\FourStore-Team4-master"/>
+			<item value="C:\Users\jrobson\Downloads\FourStoreMVP_02-main"/>
+			<item value="C:\Users\jrobson\Desktop\FourStore-Team4"/>
 			<item value="C:\Users\jrobson\Desktop\FourStore"/>
 			<item value="C:\Users\jrobson\Documents\FourStore"/>
 			<item value="C:\Users\jrobson\Desktop\MeuPark"/>

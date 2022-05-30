@@ -11,7 +11,7 @@ public class Principal {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		List<Funcionario> list = new ArrayList<>();
+		List<Funcionario> list = new ArrayList<Funcionario>();
 
 		System.out.println("How many employees will be registered? ");
 		int n = sc.nextInt();
